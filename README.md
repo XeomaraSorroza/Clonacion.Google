@@ -8,7 +8,7 @@ Proyecto de la interfaz de Google con HTML y CSS
 * [Link a Demo] (#)
 
 ***
-##1. Intro
+## 1. Intro
 
 HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los días en el navegador. Incluso este sitio web en donde estas viendo este contenido esta construido con HTML y CSS, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
 
